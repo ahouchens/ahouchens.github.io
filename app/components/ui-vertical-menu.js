@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 export default Ember.Component.extend({
-  classNames: ['ui', 'vertical', 'sticky', 'right', 'attached','launch', 'menu'],
+  classNames: ['ui', 'vertical', 'sticky',  'menu'],
   tagName: 'div',
   didInsertElement: function() {
     Ember.$('.ui.sticky').sticky({ context: "#content"});

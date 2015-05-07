@@ -4,7 +4,7 @@ export default Ember.Controller.extend({
    menuItems: [
     {
       label: 'Introduction',
-      scrollTo: '#top',
+      scrollTo: '#content',
       color: 'teal'
     },
     {

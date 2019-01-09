@@ -1,0 +1,23 @@
+.header {
+  flex-direction: row;
+  flex-flow: row; 
+  display:flex;
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+.linked-in-button {
+  margin-top: 32px;
+  margin-left: 10px;
+  width: 32px;
+
+  transition: filter .5s ease-in-out;
+
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+
+.linked-in-button:hover {
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}

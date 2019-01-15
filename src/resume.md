@@ -14,17 +14,18 @@ Fast results, iterative feedback and well-designed software architecture are cri
 
 #### Software Engineer III (Apr 2017 – Jan 2019)
   * Maintained and contributed to multiple web app products across the CrowdStrike platform using Ember.js.
-  * Very thorough code review and quality requirements.
-  * Experience with creating complex, component rich, interactive web forms in Ember.
+  * Test Driven Development - adoption of TDD strategies
+  * Very thorough code review and quality process.
+  * Created complex, component rich, interactive web forms in Ember.
   * UI project estimation, task scoping, architecture, requirements and management.
   * Responsible for software architecture concerning data services consumption and syncing for CMS.
-  * TypeScript used to write Node.js modules responsbile for syncing data between endpoints.
+  * TypeScript used to write Node.js modules responsible for syncing data between endpoints.
   * Identified and built Node command line tools to improve the efficiency of publishing internal libraries for the team.
-  * Cross team communication interpreting UX wireframes, providing feedback, and implemented into feature rich web applications.
+  * Cross team communication - interpreting UX wireframes, providing feedback, and implementation into feature rich web applications.
 
 #### Sr. UI/UX Front-End Software Engineer (Jul 2015 – Apr 2017)
   * Ember.js/ember-cli/ember-cli-deploy web application framework utilized and maintained to latest releases for multiple apps.
-  * Contributor to an data access layer (ORM) that conforms to internal APIs and makes them available as UI services.
+  * Contributor to a data access layer (ORM) that conforms to internal APIs and makes them available as UI services.
   * API design collaboration across multiple teams for different initiatives utilizing “contract first” philosophy with Swagger and OpenApi specification.
   * Contributor to an internal framework library of components that isolate, standardize and make all web application needs reusable across the platform of products.
   * Delivered CrowdStrike apps and features using the aforementioned internal component library. 

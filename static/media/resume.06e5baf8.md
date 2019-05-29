@@ -10,7 +10,7 @@ Fast results, iterative feedback and well-designed software architecture are cri
 
 ---
 
-### Papa John's (March 2019 - Present)
+### Papa John's International (March 2019 - Present)
 
 #### Sr. Front End Engineer
 * Lead front end architectural efforts to modernize UI and its UI specific dependencies.

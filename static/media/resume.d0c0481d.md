@@ -13,11 +13,11 @@ Fast results, iterative feedback and well-designed software architecture are cri
 ### Papa John's (March 2019 - Present)
 
 #### Sr. Front End Engineer
-* Lead front end architectural efforts to modernize UI and its UI specific dependenceies.
-* Coorindated to drive and lead a Center of Practice for the UI and UX team.
+* Lead front end architectural efforts to modernize UI and its UI specific dependencies
+* Coordinated to drive and lead a Center of Practice for the UI and UX team
 * Managed team to migrate legacy architecture to a Single Page Application and modernize a design system dependency.
-* Typescript used to modernize an existing UI app into Angular app.
-* Driving initiatives to make the UI more accessible.
+* Typescript used to modernize an existing UI app into Angular app
+* Driving initiatives to make the UI more accessible
 
 ---
 

@@ -14,7 +14,7 @@ Pursuing the innovation of systems architecture and underlying technology to imp
 
 #### Chief Technology Officer
 
-- Work with all of the leadership to maintain strategic alignment with the company's mission and priorities.
+- Collaborate with all of leadership to maintain strategic alignment with the company's mission and priorities.
 - Establish, communicate and set the vision for the underlying technology strategy and competitive differentiation.
 - Empower, recruit and retain quality engineering talent according to company principles.
 - Code and develop system architecture for the entire suite of Grevera product offerings.

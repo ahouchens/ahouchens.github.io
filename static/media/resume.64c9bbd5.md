@@ -1,6 +1,6 @@
 # Gregory Alexander Houchens
 
-Pursuing the innovation of systems architecture and underlying technology to improve and transform supply chains in revolutionary ways. Always seeking opportunities to add value and innovate with remarkable people for remarkable ends.
+In pursuit of innovating systems architecture and underlying technology to improve and transform supply chains in revolutionary ways. With 15 years experience in software engineering - I am always seeking opportunities to add value and innovate with remarkable people for remarkable ends.
 
 - LinkedIn - https://www.linkedin.com/in/gregory-houchens/
 - Email - webtechalex@gmail.com

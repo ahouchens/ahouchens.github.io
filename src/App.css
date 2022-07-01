@@ -3,15 +3,24 @@
   flex-direction: column;
   font-size: 1em;
   padding: 4vh;
-  background-color: #E6E6E2;
-  color: #1F1C2C;
-  font-family: 'Crimson Text', serif;
+  background: rgba(171, 197, 255, 0.426) 100%;
+  background: linear-gradient(
+    6deg,
+    rgba(45, 178, 253, 0.42620798319327735) 100%
+  );
+  color: #1f1c2c;
+  font-family: "Crimson Text", serif;
 }
 
 hr {
   border: 0;
   height: 1px;
-  background-image: linear-gradient(to right, #E6E6E2, #1F1C2C, #E6E6E2);
+  background-image: linear-gradient(
+    to right,
+    rgba(88, 88, 88, 0.426) 100%,
+    rgb(249, 228, 228),
+    rgba(83, 83, 83, 0.426) 100%
+  );
 }
 
 h1 {
@@ -32,4 +41,5 @@ h4 {
 
 p {
   display: flex;
+  margin-top: 10px;
 }

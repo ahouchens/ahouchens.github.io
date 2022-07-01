@@ -28,6 +28,8 @@ Pursuing the innovation of systems architecture and underlying technology to imp
 - Drive new innovations to improve velocity across the SLDC for all team members using key metrics.
 - Oversee organizational data structures and storage for product offerings.
 
+---
+
 ### Papa John's International (Mar 2019 - Mar 2020)
 
 #### Sr. Front End Engineer
